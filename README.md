@@ -27,10 +27,14 @@ Here is how to fix AMD Driver issues on Windows 10/11.
 
 4. Download DDU and run in Safe Mode msconfig>Safe Boot check On. Remove the AMD driver for your GPU.
 **If you want Safe Mode on auto, without manually using msconfig with DDU, then just run the amdcleanup utility.**
+
+
 **AMD Cleanup Utility:**
+
 * https://www.amd.com/en/resources/support-articles/faqs/GPU-601.html
 
 **DDU:**
+
 * https://www.guru3d.com/download/display-driver-uninstaller-download/
 
 5. Reboot into normal mode **msconfig>Safe Boot** uncheck
