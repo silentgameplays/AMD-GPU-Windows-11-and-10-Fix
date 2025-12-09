@@ -30,11 +30,11 @@ Fix for AMD drivers weird issue when the Windows Update installs an older diver 
 
 **NB! If it says 2024 and uses another driver number then repeat the process,but it should be fixed.**
 
-8. (Optional) Some people suggested adding the driver to Windows exclusion policy by Hardware ID, for safe measure.
+9. (Optional) Some people suggested adding the driver to Windows exclusion policy by Hardware ID, for safe measure.
 
-9. How to check Hardware ID: https://www.guidingtech.com/how-to-check-hardware-devices-id-windows/
+10. How to check Hardware ID: https://www.guidingtech.com/how-to-check-hardware-devices-id-windows/
 
-10. Adding to GPEDIT-Computer Configuration → Administrative Templates → System → Device Installation → Device Installation Restrictions.
+11. Adding to GPEDIT-Computer Configuration → Administrative Templates → System → Device Installation → Device Installation Restrictions.
 https://windowsforum.com/threads/block-a-specific-driver-update-in-windows-11-gp-registry-and-wushowhide.384429/
 
 * That's it the driver issuse should be fixed
