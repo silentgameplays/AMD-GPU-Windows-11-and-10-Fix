@@ -55,7 +55,7 @@ Here is how to fix AMD Driver issues on Windows 10/11.
 9. How to check Hardware ID's:
 * https://www.guidingtech.com/how-to-check-hardware-devices-id-windows/
 
-10. Adding to GPEDIT- Go to **Computer Configuration>Administrative Templates>System>Device Installation>Device Installation Restrictions** and check the link how to proceed.
+10. Adding to GPEDIT- Go to ``Computer Configuration>Administrative Templates>System>Device Installation>Device Installation Restrictions`` and check the link how to proceed.
 
 * https://windowsforum.com/threads/block-a-specific-driver-update-in-windows-11-gp-registry-and-wushowhide.384429/
 
