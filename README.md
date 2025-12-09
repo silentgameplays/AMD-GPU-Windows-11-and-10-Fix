@@ -60,5 +60,6 @@ Here is how to fix AMD Driver issues on Windows 10/11.
 * https://windowsforum.com/threads/block-a-specific-driver-update-in-windows-11-gp-registry-and-wushowhide.384429/
 
 * Enjoy and sticky this topic somewhere.
+
 **Brought to you by silentgameplays**
 https://www.youtube.com/@silentgameplays
