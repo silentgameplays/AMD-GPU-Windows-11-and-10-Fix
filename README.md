@@ -4,17 +4,19 @@ Fix for AMD drivers weird issue when the Windows Update installs an older diver 
 
 1. Go to your GPEDIT(Group policies settings) Administrative Templates>Windows Update>Do Not Include Drivers With Windows Update and set it to Enabled. That disables the auto driver installs
 
-2. Download the web version of the AMD driver, it will detect, because it detects and installs both of your GPU and APU drivers on Auto, the big installer file only installs for the GPU.
+2. Download the web version of the AMD drivers, because it detects and installs both of your GPU and APU drivers on Auto, the big installer file only installs for the GPU.
 
-3. (Optional) The actual driver 1,6 GB download for both GPU and APU https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-25-11-1.html#Downloads
+3. https://www.amd.com/en/support/download/drivers.html
 
-4. Download DDU and run in Safe Mode msconfig>Safe Boot check on. Remove the AMD driver for your GPU. If you want it on auto then just run the amdcleanup utility.
+4. (Optional) The actual driver 1,6 GB download for both GPU and APU https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-25-11-1.html#Downloads
 
-5. Reboot into normal mode msconfig>Safe Boot uncheck
+5. Download DDU and run in Safe Mode msconfig>Safe Boot check on. Remove the AMD driver for your GPU. If you want it on auto then just run the amdcleanup utility.
 
-6. Run the web version of AMD Driver detect and select Minimal and Factory Reset, wait for install to finish and reboot.
+6. Reboot into normal mode msconfig>Safe Boot uncheck
 
-7. Go to your Device Manager>Display Adapters and check which driver both of your APU and GPU are running.
+7. Run the web version of AMD Driver detect and select Minimal and Factory Reset, wait for install to finish and reboot.
+
+8. Go to your Device Manager>Display Adapters and check which driver both of your APU and GPU are running.
 
 **Driver Date for both should be 6/11/2025**
 
