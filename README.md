@@ -37,7 +37,7 @@ Fix for AMD drivers weird issue when the Windows Update installs an older diver 
 11. Adding to GPEDIT-Computer Configuration → Administrative Templates → System → Device Installation → Device Installation Restrictions.
 https://windowsforum.com/threads/block-a-specific-driver-update-in-windows-11-gp-registry-and-wushowhide.384429/
 
-* That's it the driver issuse should be fixed
+* That's it the GPU/APU driver issues should be fixed
 
 **Brought to you by silentgameplays.**
 https://www.youtube.com/@silentgameplays
