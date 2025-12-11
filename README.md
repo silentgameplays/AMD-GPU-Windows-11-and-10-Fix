@@ -73,6 +73,7 @@ https://windowsforum.com/threads/block-a-specific-driver-update-in-windows-11-gp
 10. The value of ``UEFICA2023Status``  key should say ``Updated`` instead of ``In Progress``
 11. Reboot. Check the eventviewer for errors again.
 
-*Enjoy and sticky this topic somewhere, so that people know that this is a Microsoft issues not an AMD issue.
+* Enjoy and sticky this topic somewhere, so that people know that this is a Microsoft issues not an AMD issue.
+  
 **Brought to you by silentgameplays**
 * https://www.youtube.com/@silentgameplays
